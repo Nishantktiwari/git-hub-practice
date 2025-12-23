@@ -15,6 +15,4 @@ def myadd():
     return c
 
 myadd()
-
-print (myadd(5,6))
 print("My name is Nishant " )
