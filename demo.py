@@ -1,11 +1,17 @@
+"""
+demo.py - Demonstrates simple addition and greeting functions.
+"""
+
 def myadd():
-    a=5
-    b=4
-    c= a+b
+    """
+    Adds two numbers and returns the result.
+
+    Returns:
+        int: Sum of a and b.
+    """
+    a = 5
+    b = 4
+    c = a + b
     return c
 
 myadd()
-
-"""
-    Docstring for hello
-"""

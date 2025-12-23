@@ -1,7 +1,11 @@
+"""
+demo.py - Demonstrates simple addition and greeting functions.
+"""
 def hello():
     """
-    Docstring for hello
+    Returns a friendly greeting.
+
+    Returns:
+        str: A welcome message.
     """
     return "Hello guys, Welcome"
-
-hello()
