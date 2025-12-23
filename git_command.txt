@@ -1,0 +1,8 @@
+git init
+git status
+git add filename
+git commit --m "add the file"
+git restore filename
+git remote add origin  https://github.com/Nishantktiwari/git-hub-practice.git
+git push origin master
+git clone https://github.com/Nishantktiwari/git-hub-practice.git
